@@ -7,7 +7,7 @@
 
 - 👨‍💻 Little project [https://antoniotestsoftuni.z13.web.core.windows.net/](https://antoniotestsoftuni.z13.web.core.windows.net/)
 
-- 📫 How to reach me **ilievantonio@gmail.com**
+- 📫 How to reach me **ilievantonio19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
