@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **internship**
 
-- 👨‍💻 Little project [https://antoniotestsoftuni.z13.web.core.windows.net/](https://antoniotestsoftuni.z13.web.core.windows.net/)
+- 👨‍💻 Little project testing Azure Storage [https://antoniotestsoftuni.z13.web.core.windows.net/](https://antoniotestsoftuni.z13.web.core.windows.net/)
 
 - 📫 How to reach me **ilievantonio19@gmail.com**
 
