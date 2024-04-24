@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">"Passionate Computer Science Student | Frontend Enthusiast | Eager to Learn and Grow"</h3>
 
-- 🌱 I’m currently learning **JS and Azure**
-
-- 👯 I’m looking to collaborate on **internship**
+- 🌱 I’m currently working as Junior Application Support
 
 - 📫 How to reach me **ilievantonio19@gmail.com**
 
