@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">"Passionate Computer Science Student | Frontend Enthusiast | Eager to Learn and Grow"</h3>
 
-- 🌱 I’m currently working as Junior Application Support
+- 🌱 I’m currently working as Junior Application Support for US Insurtech company
 
 - 📫 How to reach me **ilievantonio19@gmail.com**
 
