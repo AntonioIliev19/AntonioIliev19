@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">"Passionate Computer Science Student | Frontend Enthusiast | Eager to Learn and Grow"</h3>
+<h3 align="center">"Passionate Computer Science Student | Web3 Security Researcher | Eager to Learn and Grow"</h3>
 
 - 🌱 I’m currently working as Junior Application Support for US Insurtech company
 
